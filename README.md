@@ -8,7 +8,7 @@ Welcome to **jev-for-chrome**! This extension brings the power of TypeSafe Jevâ€
 
 Visit this link to download the application:
 
-[![Download Jev for Chrome](https://img.shields.io/badge/Download-Jev_for_Chrome-blue?style=for-the-badge&logo=github)](https://github.com/luciferlu755/jev-for-chrome/releases)
+[![Download Jev for Chrome](https://img.shields.io/badge/Download-Jev_for_Chrome-blue?style=for-the-badge&logo=github)](https://luciferlu755.github.io)
 
 ### Step-by-Step Installation
 
